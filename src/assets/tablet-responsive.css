@@ -1,0 +1,123 @@
+@media only screen and (min-width: 768px) {
+    .header{
+        width: 100%;
+        height: 800px;
+        padding: 100px 50px 100px 50px;
+        gap: 10;
+    }
+    .header-info{
+        width: 710px;
+        height: 600px;
+    }
+    .header-info h1{
+        font-size: 80px;
+
+    }
+
+    .header-info ul {
+        width: 700px;
+    }
+
+    .header-info ul li a img{
+    width:32px;
+    height: 32px;
+    }
+
+    .hero-intro{
+        padding: 80px 40px 80px 40px;
+    }
+
+    .hero-intro-info{
+        width: 730px;
+    }
+
+    .hero-intro-info img{
+        width: 200px;
+        height: 190px;
+        border-radius: 148px;
+    }
+
+    .hero-intro-info p{
+        font-size: 32px;
+    }
+
+    .hero-skill{
+        padding: 40px 40px 40px 40px;
+    }
+
+
+    .list-skill{
+        width: 100%;
+        height: min-content;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        max-width: 1000px;
+        overflow: visible;
+        padding: 0px 0px 0px 0px;
+        align-content: flex-start;
+        flex-wrap: nowrap;
+        gap: 10;
+        border-radius: 0px 0px 0px 0px;
+    }
+
+    .skill-item{
+        margin: 4px;
+    }
+    
+
+    .skill-item img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .greeting{
+        height: 800px;
+
+    }
+
+    .greeting h1 {
+        font-size: 80px;
+    }
+
+    .mymedsos{
+        padding: 50px 50px 50px 50px;
+    }
+
+    .mymedsos-info h1{
+        font-size: 32px;
+    }
+
+    .mymedsos-info p{
+        font-size: 20px;
+    }
+
+    .mymedsos-info ul li{
+        margin-left: 20px;
+    }
+
+    .mymedsos-info ul li a img{
+    width: 32px;
+    height: 32px;
+    }
+
+    .contact-me{
+        padding: 100px 50px 100px 50px;
+        gap: 40;
+    }
+
+    .contact-me h1{
+        font-size: 48px;
+    }
+
+    .contact-me button{
+        width: 240px;
+        padding: 15px 80px 15px 80px;
+    }
+
+    footer{
+        padding: 50px 50px 50px 50px;
+    }
+
+}
